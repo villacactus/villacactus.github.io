@@ -1,0 +1,132 @@
+*
+{
+    margin: 0;
+    padding: 0; 
+}
+
+header
+{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(44, 44, 44, 0.5)),url(background.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.row
+{
+    max-width: 1200px;
+    margin: auto
+}
+
+
+.hero
+{
+    padding: absolute;
+    width: 1200px;
+    margin-left: 400px;
+    margin-top: center;
+    margin-top: -550px;
+    
+}
+
+h1
+{
+    font-size: 60px;
+    color: white;
+    font-family: fantasy;
+}
+
+.hero2
+{
+    position: absolute;
+    width: 550px;
+    margin-left: 420px;
+    margin-top: 45px;
+
+}
+
+h2
+{
+    font-size: 14px;
+    color: white;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-weight: 100;
+    
+}
+
+.button
+{
+    margin-top: 350px;
+    margin-left: 570px;
+}
+
+.instagram:hover
+{
+    border: 1px solid white;
+    padding-top: 40px;
+}
+
+.booking:hover
+{
+    border: 1px solid white;
+    padding-top: 40px;
+}
+
+.air:hover
+{
+    border: 1px solid white;
+    padding-top: 40px;
+    padding-top: 70px;
+}
+
+.t3
+{
+    margin-top: -250px;
+}
+
+.cuisine
+{
+    margin-left: 150px;
+}
+.cuisine
+{
+    border: 7px solid white;
+    padding-top: 130px;
+}
+
+.t1
+{
+    margin-top: -143px;
+    margin-left: 500px;
+}
+
+.t11
+{
+    border: 7px solid white;
+    padding-top: 130px;
+}
+
+.t2
+{
+    margin-top: -143px;
+    margin-left: -200px;
+}
+
+.t22
+{
+    border: 7px solid white;
+    padding-top: 130px;
+}
+
+.ch1
+{
+    margin-top: -143px;
+    margin-left: -550px;
+}
+
+.ch11
+{
+    border: 7px solid white;
+    padding-top: 130px;
+}
